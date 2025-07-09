@@ -8,3 +8,5 @@ How to genereate a ssh key
 
 
 https://github.com/vcjain/git
+
+https:gitbub.com/vcjain/simple-java-maven-app.git
