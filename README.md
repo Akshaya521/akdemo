@@ -14,3 +14,5 @@ https://gitbub.com/vcjain/simple-java-maven-app.git
 (https://github.com/vcjain/jenkins_pipeline_springboot_demo/blob/main/Jenkinsfile-jacoco)
 https://github.com/vcjain/jenkins_tomcat_demo
 https://github.com/vcjain/docker-agent-demo
+
+https://github.com/vcjain/jenkins-groovy.git
